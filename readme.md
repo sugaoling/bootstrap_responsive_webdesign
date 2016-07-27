@@ -1,0 +1,2 @@
+主要学习了bootstrap 浏览器分辨率自适应
+练习了栅格，collapse 折叠，jumbotron等
